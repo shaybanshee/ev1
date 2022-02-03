@@ -21,4 +21,4 @@ In the root folder run
 ```$ ruby api_call.rb```
 
 When the api is awake, this should take in given endpoints and transform the data into a new hash with only
-```:amount, :description, :originUserName, :targetUserName, :likescCount```
+```:amount, :description, :originUserName, :targetUserName, :likesCount```
