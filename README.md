@@ -4,9 +4,9 @@ If you have had the blessed determination to get this far, I thank you.
 
 ##Please install gems:
 
-```'HTTParty'
-'json'
-'rspec'```
+```'HTTParty```
+```'json'```
+```'rspec'```
 
 ## Run the spec
 
